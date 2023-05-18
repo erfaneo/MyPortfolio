@@ -1,0 +1,49 @@
+FULL BOOTSTRAP ////
+
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.rtl.min.css
+
+///////
+
+GRID SYSTEM ////
+
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap-grid.min.css
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap-grid.rtl.min.css
+
+///////
+
+BOOTSTRAP UTILS /////
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap-utilities.min.css
+
+/////////
+
+BOOTSTRAP ICONS ////
+
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.4/font/bootstrap-icons.min.css
+
+///////
+
+SEMANTIC-UI ////
+
+https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.5.0/semantic.min.css	
+https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.5.0/semantic.min.js
+
+FONT AWSOME ////
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+
+///////
+
+TILT.JS ////
+
+https://cdnjs.cloudflare.com/ajax/libs/tilt.js/1.2.1/tilt.jquery.min.js
+
+///////
+
+SWIPER.JS ////
+
+https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.js
+https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.0/swiper-bundle.min.css
+
+///////
