@@ -247,7 +247,6 @@ li {
 /* Section One */
 .profile-bg{
     width: 100%;
-    height: 100vh;
     background-color: #46344e;
     background-image: url(./Imgs/laptop-table.jpg);
     background-size: cover;
@@ -255,6 +254,7 @@ li {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 
 .profileImg{
     transition: all 800ms 1s;
@@ -501,6 +501,13 @@ li {
 }
 /* Footer */
 /* Responsive */
+
+@media (min-height: 565px) {
+    .profile-bg {
+        height: 100vh;
+    }
+}
+
 @media (max-width:1200px) {
     .projectImgs{
         width: 100%;
